@@ -11,7 +11,7 @@
  
 ## About Me :wave:
 ```
-    Name = 'Ankit Jha'
+    Name = 'Yash Babu'
     Interests = ['Coding','Youtubing','Movies','Music','memes']
     Motto = while(!(succeed=try()));
 ```
