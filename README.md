@@ -1,4 +1,4 @@
-<h1 align="center">console.log("Hey There") 👋</h1>
+<h1 align="center">console.log("Dev Mode On") 👋</h1>
 
  <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
